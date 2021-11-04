@@ -1,0 +1,23 @@
+{
+  "name": "hello-jest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "dependencies": {
+    "jest": "^27.3.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tamakiii-sandbox/hello-jest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tamakiii-sandbox/hello-jest/issues"
+  },
+  "homepage": "https://github.com/tamakiii-sandbox/hello-jest#readme"
+}
